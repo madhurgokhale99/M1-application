@@ -1,1 +1,1 @@
-# M1-application
+# Detecting Grid Synchronisation failure system by sensing voltage and frequency 
